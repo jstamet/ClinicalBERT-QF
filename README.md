@@ -1,5 +1,5 @@
 # ClinicalBERT-QF
-This repo is a set of experiments investigating how query-free attacks can compromise LLMs trained to perform de-identification of sensitive healthcare information. This project illustrates how query-free attacks that have been implemented by Zhuang et al (https://github.com/OPTML-Group/QF-Attack/) on Text-To-Image Models like StableDiffusion can also be used against masked language models like ClinicalBERT.
+This project is a set of experiments investigating how query-free attacks can compromise LLMs trained to perform de-identification of sensitive healthcare information. Zhuang et al have demonstrated that text-to-image models like StableDiffusion are susceptible (https://github.com/OPTML-Group/QF-Attack/). This project applies similar techniques to simulate attacks against masked language models like ClinicalBERT.
 
 <div align="center">
   <img src="/images/homoglyph.PNG" alt="Attack Methods on Clinical Text">
