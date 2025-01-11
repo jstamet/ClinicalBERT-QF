@@ -2,7 +2,7 @@
 This project is a set of experiments investigating how query-free attacks can compromise LLMs trained to perform de-identification of sensitive healthcare information. Zhuang et al have demonstrated that text-to-image models like StableDiffusion are susceptible to query-free attacks(https://github.com/OPTML-Group/QF-Attack/). This project applies similar techniques to simulate attacks against masked language models like ClinicalBERT.
 
 
-Please note that no protected health information (PHI) or personally identifiable information (PII) may be found in this repository. All examples of PHI are realistic but fak examples generated from some model like Claude or GPT. 
+Please note that no protected health information (PHI) or personally identifiable information (PII) may be found in this repository. All examples of PHI are realistic but fake examples generated from some model like Claude or GPT. 
 
 <div align="center">
   <img src="/images/homoglyph.PNG" alt="Attack Methods on Clinical Text">
