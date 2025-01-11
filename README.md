@@ -10,6 +10,6 @@ Please note that no protected health information (PHI) or personally identifiabl
 </div>
 <div align="center">
   <img src="/images/AverageF1.png" alt="Attack Methods on Results">
-  <p><em>Figure 2: Average F1 scores showing the effectiveness of different attack methods</em></p>
+  <p><em>Figure 2: Average F1 scores showing how effectively attacks impact classification of PHI (lower score means more effective attack)</em></p>
 </div>
 
